@@ -6,7 +6,7 @@
 
 ## Tools Used
 
-- **Antigravity (Google DeepMind)** – Used as the primary AI coding assistant
+- **Cloud** – Used as the primary AI coding assistant
   throughout development for code generation, test design, and architecture review.
 
 ---
